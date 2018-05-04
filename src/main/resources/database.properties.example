@@ -1,3 +1,4 @@
+# Copy this file to database.properties and write your credentials here.
 development.driver=com.mysql.jdbc.Driver
 development.username=<user>
 development.password=<pass>
